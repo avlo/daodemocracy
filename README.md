@@ -18,7 +18,7 @@ An extension of DAO ([Decentralized Autonomous Organization](https://en.wikipedi
 - The average person is better at measuring their happiness about a decision *after* it is made rather than *before*.
 - Intelligent/motivated people participation incentivized by profitable problem solving.
 - A DAO replaces representative (ie., congress / director / managerial) process.
-- Laws/rules written into digital contracts.  Programmable, public, immutable and persistent against any individual, group or external system.
+- Laws/rules written into digital contracts.  Programmable, transparent, immutable and persistent against any individual, group or external system.
 - Anachronize bureaucratic cost, time, overhead & resource waste.
 - Programmatic self-correction.
 
