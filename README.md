@@ -43,7 +43,7 @@ After some (pre-determined) time, voters are asked to rate their satisfaction of
     - Losses taken from betters who inaccurately predicted voter satisfaction.  
 3. Voter satisfaction poll data now available to market participants & the process starts over.
 
-This iterative mechanism contianually better informs the competitive proposal market, resulting in increasingly desirable outcomes for voters and swift self-correction otherwise.
+This iterative mechanism contianually better informs the competitive proposal market, resulting in increasingly desirable outcomes for voters and systematic self-correction otherwise.
 
 ---
 ### Event-flow diagram
