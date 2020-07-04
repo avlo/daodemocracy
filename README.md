@@ -10,7 +10,7 @@
 ---
 
 ## What is DAO Democracy?
-A democratic governance evolution beyond ongoing shortcomings and inefficiencies.
+A democratic governance evolution beyond existing & ongoing shortcomings and inefficiencies.
 
 An extension of DAO ([Decentralized Autonomous Organization](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)), DAO Democracy was proposed in a [whitepaper](https://merkle.com/papers/DAOdemocracyDraft.pdf) by computer scientist and cryptographer [Ralph Merkle](https://en.wikipedia.org/wiki/Ralph_Merkle) with predictive market component by economist [Robin Hanson](https://mason.gmu.edu/~rhanson/futarchy.html).
 
