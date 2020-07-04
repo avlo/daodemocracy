@@ -15,7 +15,7 @@ A democratic governance evolution beyond existing & ongoing shortcomings and ine
 An extension of DAO ([Decentralized Autonomous Organization](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)), DAO Democracy was proposed in a [whitepaper](https://merkle.com/papers/DAOdemocracyDraft.pdf) by computer scientist and cryptographer [Ralph Merkle](https://en.wikipedia.org/wiki/Ralph_Merkle) with predictive market component by economist [Robin Hanson](https://mason.gmu.edu/~rhanson/futarchy.html).
 
 ## Motivation
-- The average person is better at measuring their happiness about a decision *after* it is made more than *before*.
+- The average person is better at measuring their happiness about a decision *after* it is made rather than *before*.
 - Intelligent/motivated people incentivized by profitable problem solving.
 - A DAO replaces representative (ie., congress / director / managerial) process.
 - Laws/rules written into digital contracts.  Programmable, public, immutable and persistent against any individual, group or external system.
