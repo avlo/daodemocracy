@@ -31,7 +31,6 @@ Software mechanism as follows:
 2. Creates a "for" and "against" bet/instrument for that proposal.  
 3. Accepts bets on the proposal, escrows (holds) "betters" money & manages betting time-window.
 4. Instructs DAO to trigger majority "bet" into law.
-5. Financially incentivizes better proposal submissions and market-participant predictions as a function of voter satisfaction.
 
 ### Phase 2 - Voter Satisfaction Poll:
 After some (pre-determined) time, voters are asked to rate their satisfaction of a given law.  Based on their collective vote:  
@@ -41,9 +40,9 @@ After some (pre-determined) time, voters are asked to rate their satisfaction of
     - Profits paid to betters that accurately predicted voter satisfaction  
     ***and***  
     - Losses taken from betters who inaccurately predicted voter satisfaction.  
-3. Voter satisfaction poll data now available to market participants & the process starts over.
+3. Voter satisfaction poll data now available to next-iteration market participants.
 
-This iterative mechanism contianually better informs the competitive proposal market, resulting in increasingly desirable outcomes for voters and systematic self-correction otherwise.
+This iterative mechanism continually better informs the competitive proposal market, resulting in increasingly desirable outcomes for voters and systematic self-correction otherwise.
 
 ---
 ### Event-flow diagram
