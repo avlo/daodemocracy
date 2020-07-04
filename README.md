@@ -37,7 +37,7 @@ Software mechanism as follows:
 After some (pre-determined) time, voters are asked to rate their satisfaction of a given law.  Based on their collective vote:  
 1. The law is either kept "as is" or repealed  
     ***and***  
-2. The prediction market escrow pays bets as follows:  
+2. The prediction market escrow settles bets as follows:  
     - Profits paid to betters that accurately predicted voter satisfaction  
     ***and***  
     - Losses taken from betters who inaccurately predicted voter satisfaction.  
