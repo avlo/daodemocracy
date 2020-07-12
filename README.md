@@ -42,7 +42,7 @@ After some (pre-determined) time, voters are asked to rate their satisfaction of
     - Profits paid to betters that accurately predicted voter satisfaction  
     ***and***  
     - Losses taken from betters who inaccurately predicted voter satisfaction.  
-3. Voter satisfaction poll data now available to next-iteration market participants.
+3. Voter satisfaction poll data now available to better inform next-iteration market participants.
 
 This iterative mechanism continually better informs the competitive proposal market, resulting in increasingly desirable outcomes for voters and systematic self-correction otherwise.
 
