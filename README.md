@@ -10,17 +10,17 @@
 ---
 
 ## What is DAO Democracy?
-A democratic governance evolution beyond existing & ongoing shortcomings and inefficiencies.
+A [scalable](https://en.wikipedia.org/wiki/Scalability) democratic governance model for untangling existing shortcomings and inefficiencies.
 
 An extension of DAO ([Decentralized Autonomous Organization](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)), DAO Democracy was proposed in a [whitepaper](https://merkle.com/papers/DAOdemocracyDraft.pdf) by computer scientist and cryptographer [Ralph Merkle](https://en.wikipedia.org/wiki/Ralph_Merkle) with predictive market component by economist [Robin Hanson](https://mason.gmu.edu/~rhanson/futarchy.html).
 
 ## Motivation
 - The average person is better at measuring their happiness about a decision *after* it is made rather than *before*.
-- Intelligent/motivated people participation incentivized by profitable problem solving.
-- A DAO replaces representative (ie., congress / director / managerial) process.
-- Laws/rules written into digital contracts.  Programmable, transparent, immutable and persistent against any individual, group or external system.
+- Intelligent/motivated participants incentivized by profitable legislative proposal submission.
+- A [DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) replaces representative (ie., congress / director / managerial) structure.
+- Laws/rules written into digital contracts residing in the DAO.  They are programmable, transparent, immutable and persistent against any individual, group or external system.
 - Anachronize bureaucratic cost, time, overhead & resource waste.
-- Programmatic self-correction.
+- Programmatically self-correcting.
 
 ## How does DAO Democracy work?
 DAO Democracy is composed of two phases, a ```Prediction Market``` and  ```Voter Satisfaction Poll```.
