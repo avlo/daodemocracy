@@ -25,7 +25,7 @@ In short- *rules, not rulers*- true to form.
 - Programmatically self-correcting.
 
 ## How does DAO Democracy work?
-DAO Democracy is composed of two phases, a ```Prediction Market``` and  ```Voter Satisfaction Poll```.
+DAO Democracy is composed of two phases, a [```Prediction Market```](https://en.wikipedia.org/wiki/Prediction_market) and  ```Voter Satisfaction Poll```.
 
 ### Phase 1 - Prediction Market:
 Software mechanism as follows:  
