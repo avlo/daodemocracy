@@ -18,7 +18,7 @@ In short- *rules, not rulers*- true to form.
 
 ## Motivation
 - The average person is better at measuring their happiness about a decision *after* it is made rather than *before*.
-- Intelligent/motivated participants profitably incentivized for legislative proposal submission.
+- Intelligent/creative participants profitably incentivized for legislative proposal submission.
 - A [DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) replaces representative (ie., congress / director / managerial) structure.  
 - Laws/rules written into digital contracts residing in the DAO.  They are programmable, transparent, immutable and persistent against any individual, group or external system.
 - Anachronize bureaucratic cost, time, overhead & resource waste.
