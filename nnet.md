@@ -15,8 +15,8 @@ new participants will have opportunity to grow/learn/etc, over time becoming mor
 
 a decrease in one's reputation leads to decrease in value of their future time.  they progress towards undependability.  negative-punishment system.
 
-the progressively dependable, having pursued ongoing successful contracts will increase their reputation and opportunity.  brings entities closer together whose incentives are aligned.
+progressively dependable people, having pursued ongoing successful contracts will increase their reputation and opportunity.  brings entities closer together whose incentives are aligned.
 
-the progressively undependables will progressively drive themselves to lower reputation, inevitably down among other chronic undependables where effect of their behaviors is localized to each other (and not onto dependables) to reap- by their own doing- the fruits of their chosen actions.
+progressively undependable people will drive themselves to lower reputation, inevitably down among other chronic undependables where effect of their behaviors is localized to each other (and not onto dependables) to reap- by their own doing- the fruits of their chosen actions.
 
 this is an attempt at applied accountability.  to mitigate risk from shitty people at the same time providing a framework to incentivize them to grow out of their shittiness.  it's important to note, nnet also has the possiblity for “practice mode” where one can even make commitments to themselves with their own time such that they can learn, without consequence to others, how to manage their time/resources and so become better equipped to play well with others when they (and/or the network "practice-mode" recommends) are ready for it.
