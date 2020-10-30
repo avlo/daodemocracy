@@ -1,4 +1,4 @@
-historically, destructive behavior by a single individual against his society/environment has disproportionately low consequences for the destructive individual yet comes at high cost to his society/environment.  largely because the destructive individual assumes little-to-no risk (financially, reputably, etc) for their destructive behavior.
+historically, online, destructive behavior by a single individual against his society/environment has disproportionately low consequences for the destructive individual yet comes at high cost to his society/environment.  largely because the destructive individual assumes little-to-no risk (financially, reputably, etc) for their destructive behavior.
 
 a potentail rememdy for this is a social value / social currency / reputation network/layer, refered to below as "nnet"
 
