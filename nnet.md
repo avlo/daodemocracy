@@ -15,7 +15,7 @@ new participants will have opportunity to grow/learn/etc, over time becoming mor
 
 a decrease in one's reputation leads to decrease in value of their future time.  they progress towards undependability.  negative-punishment system.
 
-progressively dependable people, having pursued ongoing successful contracts will increase their reputation and opportunity.  brings entities closer together whose incentives are aligned.
+progressively dependable people, having pursued ongoing successful contracts will increase their reputation and opportunity.  this brings entities closer together whose incentives are aligned.
 
 progressively undependable people will drive themselves to lower reputation, inevitably down among other chronic undependables where effect of their behaviors is localized to each other (and not onto dependables) to reap- by their own doing- the fruits of their chosen actions.
 
